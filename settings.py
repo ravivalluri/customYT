@@ -139,4 +139,4 @@ LOGIN_URL = '/login/'
 
 # Put your youtube API key here, it will be used in all API calls to the
 # Youtube API.
-YOUTUBE_API_KEY = 'AIzaSyBJ5pkxWVB_KpLTZqOr4v_npEuQFIWkskM'
+YOUTUBE_API_KEY = ''
